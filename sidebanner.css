@@ -1,0 +1,368 @@
+.sidebarbanner {
+  background-color: rgba(192, 61, 43, 1);
+  top: 23px;
+  height: 1146px;
+  width: 100%;
+  margin: 0;
+  right: 0;
+}
+.sidebarbanner .menu1 {
+  background-color: var(--font-color-grey);
+  top: 124px;
+  height: 99px;
+  width: 171px;
+  position: absolute;
+  margin: 0;
+  left: 172px;
+}
+.sidebarbanner .fill887 {
+  background-color: var(--font-color-grey);
+  top: 664px;
+  height: 134px;
+  width: 104px;
+  position: absolute;
+  margin: 0;
+  left: 80px;
+}
+.sidebarbanner .fill888 {
+  background-color: var(--font-color-grey);
+  top: 155px;
+  height: 26px;
+  width: 59px;
+  position: absolute;
+  margin: 0;
+  left: 428px;
+}
+.sidebarbanner .fill889 {
+  background-color: var(--font-color-grey);
+  top: 146px;
+  height: 47px;
+  width: 27px;
+  position: absolute;
+  margin: 0;
+  left: 617px;
+}
+.sidebarbanner .fill8881 {
+  background-color: var(--font-color-grey);
+  top: 512px;
+  height: 26px;
+  width: 59px;
+  position: absolute;
+  margin: 0;
+  left: 102px;
+}
+.sidebarbanner .fill8882 {
+  background-color: var(--font-color-grey);
+  top: 748px;
+  height: 26px;
+  width: 59px;
+  position: absolute;
+  margin: 0;
+  left: 208px;
+}
+.sidebarbanner .fill8883 {
+  background-color: var(--font-color-grey);
+  top: 741px;
+  height: 27px;
+  width: 59px;
+  position: absolute;
+  margin: 0;
+  left: 276px;
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+.sidebarbanner .fill8891 {
+  background-color: var(--font-color-grey);
+  top: 503px;
+  height: 47px;
+  width: 27px;
+  position: absolute;
+  margin: 0;
+  left: 291px;
+}
+.sidebarbanner .veganosycarnivoros {
+  background-color: var(--font-color-grey);
+  top: 576px;
+  height: auto;
+  width: 360px;
+  position:absolute;
+right:40px;
+margin-left:auto;
+margin-right:auto;
+  font-family: "PoetsenOne-Regular", Helvetica, Arial, serif;
+  font-size: 50px;
+  color: rgba(243, 223, 199, 1);
+  text-align: right;
+  letter-spacing: -2.5px;
+  line-height: 45px;
+}
+.sidebarbanner .parrilleahoy {
+  background-color: var(--font-color-grey);
+  top: 405px;
+  height: 162px;
+  width: 301px;
+  position:absolute;
+left:0;
+right:0;
+margin-left:auto;
+margin-right:auto;
+  font-family: "Fresco-Stamp", Helvetica, Arial, serif;
+  font-size: 100px;
+  color: rgba(26, 25, 23, 1);
+  letter-spacing: -2.3px;
+  line-height: 72px;
+}
+.sidebarbanner .parrilleahoy .span1 {
+  line-height: 70px;
+}
+.sidebarbanner .parrilleahoy .span2 {
+  font-size: 72px;
+  letter-spacing: -1.66px;
+  line-height: 70px;
+}
+.sidebarbanner .tabla {
+  background-color: var(--font-color-grey);
+  top: 28px;
+  height: 415px;
+  width: 260px;
+  position:absolute;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+}
+.sidebarbanner .tabla .fill890 {
+  background-color: var(--font-color-grey);
+  top: 316px;
+  height: 99px;
+  width: 73px;
+  position: absolute;
+  margin: 0;
+  left: 97px;
+}
+.sidebarbanner .tabla .fill892 {
+  background-color: var(--font-color-grey);
+  top: 0;
+  height: 407px;
+  width: 260px;
+  position: absolute;
+  margin: 0;
+  left: 0;
+}
+.sidebarbanner .tabla .fill893 {
+  background-color: var(--font-color-grey);
+  top: 273px;
+  height: 39px;
+  width: 45px;
+  position: absolute;
+  margin: 0;
+  left: 8px;
+}
+.sidebarbanner .tabla .fill894 {
+  background-color: var(--font-color-grey);
+  top: 275px;
+  height: 33px;
+  width: 47px;
+  position: absolute;
+  margin: 0;
+  left: 203px;
+}
+.sidebarbanner .tabla .fill895 {
+  background-color: var(--font-color-grey);
+  top: 252px;
+  height: 44px;
+  width: 13px;
+  position: absolute;
+  margin: 0;
+  left: 12px;
+}
+.sidebarbanner .tabla .fill896 {
+  background-color: var(--font-color-grey);
+  top: 246px;
+  height: 53px;
+  width: 23px;
+  position: absolute;
+  margin: 0;
+  left: 223px;
+}
+.sidebarbanner .tabla .fill897 {
+  background-color: var(--font-color-grey);
+  top: 8px;
+  height: 39px;
+  width: 42px;
+  position: absolute;
+  margin: 0;
+  left: 9px;
+}
+.sidebarbanner .tabla .fill898 {
+  background-color: var(--font-color-grey);
+  top: 14px;
+  height: 17px;
+  width: 48px;
+  position: absolute;
+  margin: 0;
+  left: 21px;
+}
+.sidebarbanner .tabla .fill899 {
+  background-color: var(--font-color-grey);
+  top: 313px;
+  height: 30px;
+  width: 27px;
+  position: absolute;
+  margin: 0;
+  left: 141px;
+}
+.sidebarbanner .tabla .fill900 {
+  background-color: var(--font-color-grey);
+  top: 314px;
+  height: 28px;
+  width: 38px;
+  position: absolute;
+  margin: 0;
+  left: 83px;
+}
+.sidebarbanner .tabla .fill891 {
+  background-color: var(--font-color-grey);
+  top: 322px;
+  height: 6px;
+  width: 3px;
+  position: absolute;
+  margin: 0;
+  left: 96px;
+}
+.sidebarbanner .tabla .fill1020 {
+  background-color: var(--font-color-grey);
+  top: 95px;
+  height: 172px;
+  width: 216px;
+  position: absolute;
+  margin: 0;
+  left: 11px;
+}
+.sidebarbanner .tabla .concarneosinella {
+  background-color: var(--font-color-grey);
+  top: 140px;
+  height: auto;
+  width: 170px;
+  position: absolute;
+  margin: 0;
+  left: 54px;
+  font-family: "PoetsenOne-Regular", Helvetica, Arial, serif;
+  font-size: 24px;
+  color: var(--font-color);
+  text-align: center;
+  line-height: 20px;
+}
+.sidebarbanner .tabla .fill901 {
+  background-color: var(--font-color-grey);
+  top: 375px;
+  height: 21px;
+  width: 20px;
+  position: absolute;
+  margin: 0;
+  left: 119px;
+}
+.sidebarbanner .fill1015 {
+  background-color: var(--font-color-grey);
+  top: 882px;
+  height: 27px;
+  width: 79px;
+  position:absolute;
+left:0;
+right:0;
+margin-left:auto;
+margin-right:auto;
+}
+.sidebarbanner .fill1016 {
+  background-color: var(--font-color-grey);
+  top: 376px;
+  height: 18px;
+  width: 55px;
+  position: absolute;
+  margin: 0;
+  left: 608px;
+}
+.sidebarbanner .ganader355aresponsabl {
+  background-color: var(--font-color-grey);
+  top: 783px;
+  height: auto;
+  width: 298px;
+  position:absolute;
+left:0;
+right:0;
+margin-left:auto;
+margin-right:auto;
+  font-family: "PoetsenOne-Regular", Helvetica, Arial, serif;
+  font-size: 48px;
+  color: rgba(26, 25, 23, 1);
+  text-align: right;
+  letter-spacing: -1.3px;
+  line-height: 40px;
+}
+.sidebarbanner .carnelibre {
+  background-color: var(--font-color-grey);
+  top: 37px;
+  height: 97px;
+  width: 95px;
+  position: absolute;
+  margin: 0;
+  left: 247px;
+}
+.sidebarbanner .carnelibre .fill1017 {
+  background-color: var(--font-color-grey);
+  top: 0;
+  height: 97px;
+  width: 95px;
+  position: absolute;
+  margin: 0;
+  left: 0;
+}
+.sidebarbanner .carnelibre .fill1018 {
+  background-color: var(--font-color-grey);
+  top: 64px;
+  height: 17px;
+  width: 54px;
+  position: absolute;
+  margin: 0;
+  left: 20px;
+}
+.sidebarbanner .carnelibre .vegan {
+  background-color: var(--font-color-grey);
+  top: 16px;
+  height: auto;
+  width: 79px;
+  position: absolute;
+  margin: 0;
+  left: 14px;
+  font-family: "PoetsenOne-Regular", Helvetica, Arial, serif;
+  font-size: 21px;
+  color: var(--font-color);
+  text-align: left;
+  line-height: 25px;
+}
+.sidebarbanner .carnelibre .grill {
+  background-color: var(--font-color-grey);
+  top: 37px;
+  height: auto;
+  width: 57px;
+  position: absolute;
+  margin: 0;
+  left: 19px;
+  font-family: "PoetsenOne-Regular", Helvetica, Arial, serif;
+  font-size: 21px;
+  color: var(--font-color);
+  text-align: left;
+  line-height: 25px;
+}
+.sidebarbanner .carnelibreydecal {
+  background-color: var(--font-color-grey);
+  top: 920px;
+  height: 184px;
+  width: 324px;
+  position:absolute;
+left:0;
+right:0;
+margin-left:auto;
+margin-right:auto;
+}
