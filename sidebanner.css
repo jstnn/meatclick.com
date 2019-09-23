@@ -1,10 +1,6 @@
 .sidebarbanner {
   background-color: rgba(192, 61, 43, 1);
-  top: 23px;
   height: 1146px;
-  width: 100%;
-  margin: 0;
-  right: 0;
 }
 .sidebarbanner .menu1 {
   background-color: var(--font-color-grey);
@@ -49,25 +45,25 @@
   width: 59px;
   position: absolute;
   margin: 0;
-  left: 102px;
+  left: 50px;
 }
 .sidebarbanner .fill8882 {
   background-color: var(--font-color-grey);
-  top: 748px;
+  top: 738px;
   height: 26px;
   width: 59px;
   position: absolute;
   margin: 0;
-  left: 208px;
+  left: 160px;
 }
 .sidebarbanner .fill8883 {
   background-color: var(--font-color-grey);
-  top: 741px;
+  top: 701px;
   height: 27px;
   width: 59px;
   position: absolute;
   margin: 0;
-  left: 276px;
+  left: 50px;
   -ms-transform: rotate(270deg);
   -webkit-transform: rotate(270deg);
   transform: rotate(270deg);
@@ -79,15 +75,14 @@
   width: 27px;
   position: absolute;
   margin: 0;
-  left: 291px;
+  left: 221px;
 }
 .sidebarbanner .veganosycarnivoros {
   background-color: var(--font-color-grey);
   top: 576px;
   height: auto;
-  width: 360px;
   position:absolute;
-right:40px;
+right:35px;
 margin-left:auto;
 margin-right:auto;
   font-family: "PoetsenOne-Regular", Helvetica, Arial, serif;
@@ -101,12 +96,11 @@ margin-right:auto;
   background-color: var(--font-color-grey);
   top: 405px;
   height: 162px;
-  width: 301px;
-  position:absolute;
-left:0;
-right:0;
-margin-left:auto;
-margin-right:auto;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
   font-family: "Fresco-Stamp", Helvetica, Arial, serif;
   font-size: 100px;
   color: rgba(26, 25, 23, 1);
@@ -307,7 +301,7 @@ margin-right:auto;
   width: 95px;
   position: absolute;
   margin: 0;
-  left: 247px;
+  right: 50px;
 }
 .sidebarbanner .carnelibre .fill1017 {
   background-color: var(--font-color-grey);

@@ -26,18 +26,12 @@
     --red: rgba(192, 61, 43, 1);
 }
 
-html {
-    background-color: var(--bg-color);
+body {
+    background-color: var(--bg-color) !important;
+    margin: 0;
 }
 .container {
-    background-color: var(--bg-color);
-}
-
-/*hkashdkasjhdkashd*/
-
-body {
-    background-color: var(--bg-color);
-    margin: 0;
+    max-width:1020px !important;
 }
 
 .landing {
@@ -48,8 +42,6 @@ body {
   position: relative;
   overflow: hidden;
   margin: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   background-color: var(--bg-color);
 }
 a {
@@ -71,38 +63,27 @@ input:focus {
 div {
   -webkit-text-size-adjust: none;
 }
+.disclaimer {
+  background-color: var(--font-color-grey);
+  margin: 0;
+  font-family: "LouisGeorgeCafe-Bold", Helvetica, Arial, serif;
+  font-size: 19.73px;
+  color: var(--font-color);
+  text-align: left;
+  letter-spacing: 0;
+  line-height: 23px;
+  padding-bottom: 30px;
+}
 .headermeatclick {
-  background-color: var(--font-color-grey);
+  background-color: var(--red);
   height: 157px;
-  width: 100%;
   margin-bottom: 15px;
-}
-.headermeatclick .group2 {
-  background-color: var(--font-color-grey);
-  top: 0;
-  height: 157px;
-  width: 100%;
-  position: absolute;
-  margin: 0;
-  left: 0;
-}
-.headermeatclick .group2 .fill5 {
-  background-color: var(--font-color-grey);
-  top: 0;
-  height: 157px;
-  width: 100%;
-  position: absolute;
-  margin: 0;
-  left: 0;
 }
 .headermeatclick .group {
   background-color: var(--font-color-grey);
-  top: 1px;
   height: 150px;
-  width: 626px;
-  position: absolute;
-  margin: 0;
-  left: 5px;
+  margin: 10px;
+  position: relative;
 }
 .headermeatclick .group .meatclickcom {
   background-color: var(--font-color-grey);
@@ -171,9 +152,11 @@ div {
 }
 .boxqueviene {
   background-color: var(--font-color);
-  height: 965px;
   width: 100%;
+  padding:20px;
   margin: 0;
+  min-height: 400px;
+  position: relative;
 }
 .boxqueviene .fill13 {
   background-color: var(--font-color-grey);
@@ -222,9 +205,8 @@ div {
 }
 .boxqueviene .lamejorhamburguesa {
   background-color: var(--font-color-grey);
-  top: 100%;
+  top: 0;
   height: auto;
-  width: 345px;
   position: absolute;
   margin: 0;
   left: 14px;
@@ -310,12 +292,9 @@ div {
 }
 .boxqueviene .calibrecolorcobe {
   background-color: var(--font-color-grey);
-  top: 162px;
   height: auto;
   width: 337px;
-  position: absolute;
   margin: 0;
-  left: 15px;
   font-family: "PoetsenOne-Regular", Helvetica, Arial, serif;
   font-size: 11.62px;
   color: rgba(26, 25, 23, 1);
@@ -324,12 +303,9 @@ div {
 }
 .boxqueviene .a2kglomoliso {
   background-color: var(--font-color-grey);
-  top: 135px;
   height: auto;
   width: 226px;
-  position: absolute;
   margin: 0;
-  left: 15px;
   font-family: "LouisGeorgeCafe-Bold", Helvetica, Arial, serif;
   font-size: 19.73px;
   color: rgba(26, 25, 23, 1);
@@ -338,12 +314,9 @@ div {
 }
 .boxqueviene .a1kgcerdo {
   background-color: var(--font-color-grey);
-  top: 203px;
   height: auto;
   width: 147px;
-  position: absolute;
   margin: 0;
-  left: 15px;
   font-family: "LouisGeorgeCafe-Bold", Helvetica, Arial, serif;
   font-size: 19.73px;
   color: rgba(26, 25, 23, 1);
@@ -353,12 +326,9 @@ div {
 }
 .boxqueviene .elsabortexturay {
   background-color: var(--font-color-grey);
-  top: 229px;
   height: auto;
   width: 300px;
-  position: absolute;
   margin: 0;
-  left: 15px;
   font-family: "PoetsenOne-Regular", Helvetica, Arial, serif;
   font-size: 11.62px;
   color: rgba(26, 25, 23, 1);
@@ -368,12 +338,9 @@ div {
 }
 .boxqueviene .a1kgpollo {
   background-color: var(--font-color-grey);
-  top: 270px;
   height: auto;
   width: 147px;
-  position: absolute;
   margin: 0;
-  left: 15px;
   font-family: "LouisGeorgeCafe-Bold", Helvetica, Arial, serif;
   font-size: 19.73px;
   color: rgba(26, 25, 23, 1);
@@ -383,12 +350,9 @@ div {
 }
 .boxqueviene .alimentadosdeforma {
   background-color: var(--font-color-grey);
-  top: 295px;
   height: auto;
   width: 360px;
-  position: absolute;
   margin: 0;
-  left: 15px;
   font-family: "PoetsenOne-Regular", Helvetica, Arial, serif;
   font-size: 11.62px;
   color: rgba(26, 25, 23, 1);
@@ -398,12 +362,9 @@ div {
 }
 .boxqueviene .a6longanizas {
   background-color: var(--font-color-grey);
-  top: 339px;
   height: auto;
   width: 147px;
-  position: absolute;
   margin: 0;
-  left: 16px;
   font-family: "LouisGeorgeCafe-Bold", Helvetica, Arial, serif;
   font-size: 19.73px;
   color: rgba(26, 25, 23, 1);
@@ -413,12 +374,10 @@ div {
 }
 .boxqueviene .firmesalcortesua {
   background-color: var(--font-color-grey);
-  top: 365px;
   height: auto;
   width: 344px;
   position: absolute;
   margin: 0;
-  left: 16px;
   font-family: "PoetsenOne-Regular", Helvetica, Arial, serif;
   font-size: 11.62px;
   color: rgba(26, 25, 23, 1);
@@ -428,12 +387,9 @@ div {
 }
 .boxqueviene .redbox46p {
   background-color: var(--font-color-grey);
-  top: 92px;
   height: auto;
   width: 362px;
-  position: absolute;
   margin: 0;
-  left: 15px;
   font-family: "LouisGeorgeCafe-Bold", Helvetica, Arial, serif;
   font-size: 28px;
   color: rgba(133, 13, 13, 1);
@@ -472,12 +428,9 @@ div {
 }
 .boxqueviene .queviene {
   background-color: var(--font-color-grey);
-  top: 19px;
   height: 56px;
   width: 381px;
-  position: absolute;
   margin: 0;
-  left: 14px;
 }
 .boxqueviene .fill886 {
   background-color: var(--font-color-grey);
@@ -676,6 +629,9 @@ div {
   height: 352px;
   width: 100%;
   margin-bottom: 15px;
+  border: 12px solid var(--font-color);
+  background-image: url("https://anima-uploads.s3.amazonaws.com/projects/5d62163ac3e6c75246db4fd1/releases/5d69873497ac03b9cb7751b1/img/landing-ilustracion1.png");
+  background-repeat: no-repeat;
 }
 .boxintro .rectangle {
   background-color: var(--font-color-grey);
@@ -761,14 +717,11 @@ div {
 .boxliquidos {
   background-color: var(--font-color-grey);
   height: 307px;
-  width: 100%;
-  margin: 0;
 }
 .boxliquidos .wellitlayoris {
   background-color: var(--font-color-grey);
   top: 185px;
   height: auto;
-  width: 93px;
   position: absolute;
   margin: 0;
   left: 1px;
@@ -902,7 +855,6 @@ div {
 .boxveggies {
   background-color: var(--font-color-grey);
   height: 315px;
-  margin: 10px;
 }
 .boxveggies .a000 {
   background-color: var(--font-color-grey);
@@ -1035,7 +987,6 @@ div {
   background-color: var(--font-color-grey);
   top: 301px;
   height: auto;
-  width: 60px;
   position: absolute;
   margin: 0;
   left: 2px;
